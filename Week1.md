@@ -4,9 +4,10 @@
 
  ii>  They also help to make the code more readable and understandable, as the use of keywords makes it clear what each part of the code is doing.  
  
-    Keywords can be accessed by typing the command  
-
-  'code' help('keywords')
+    Keywords can be accessed by typing the command:-  
+    
+   help('keywords')  
+   'code'
 
 The examples of keywords are help, while, for, do, continue etc and so on.     
     

@@ -7,8 +7,8 @@
  Keywords can be accessed by typing the command:-  
 
 ```python
-help('keywords') 
-´´´
+help('keywords')  
+```
 
 The examples of keywords are help, while, for, do, continue etc and so on.     
     

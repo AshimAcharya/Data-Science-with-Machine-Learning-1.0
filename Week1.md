@@ -43,7 +43,8 @@ Expressions are combinations of values, variables, and operators that evaluate t
 ```Python
 # Expression example
 x = 5 - 4
-
+```
+```Python
 # Statement example
 if x = 10:
     print("x is equal to 10")

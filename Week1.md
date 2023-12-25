@@ -21,13 +21,30 @@ Identifiers are names used to identify variables, functions, classes, etc. In Py
 ### 3. What are comments in Python, and why are they useful? Provide an example.
 **Comments** are the descriptive text that may describe any thing related to the code e.g function, variable, section of code or output. They are ignored by interpreter. Comments can be either single or multiple line.
 
-*Single-line comment* is written as 
+*Single-line comment* are written as 
 ```python
 # This is example of single line comment.
 ```
-*multiple-line comment* is written as 
+*multiple-line comment* are written as 
 ``` python
 """ This is example of
-    multiple line of comment"""
+    multiple line of comment."""
 ```
 ### 4. Why is proper indentation important in Python?
+Proper indentation provides clearity and readibility of the code as well as improper indentation leads to indentation error or syntax error.Also, indentation is used to define the block of code, such as loops, conditional statements, function definitions, and more. The spaces or tabs used for indentation signify the grouping of statements within a block.
+
+### 5. What happens if indentation is incorrect in Python?
+Incorrect indentation  lead to syntax errors or change the logical structure of the code. For example, an improperly indented block inside a loop or condition may execute unexpectedly or throw an indentation-related error.
+
+### 6. Differentiate between expression and statement in Python with examples.
+
+Expressions are combinations of values, variables, and operators that evaluate to a single value. Statements are line or multiple line of code that executes and create some result. For example:
+
+```Python
+# Expression example
+x = 5 - 4
+
+# Statement example
+if x = 10:
+    print("x is equal to 10")
+```
